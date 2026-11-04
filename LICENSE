@@ -1,0 +1,84 @@
+W11::OPTIMIZER — Windows 11 Gaming Optimizer
+Copyright (c) 2025-2026 John Wish (github.com/JohnWish01)
+All rights reserved.
+
+This software (the script JohnWishGamingOptimizer.ps1), its documentation
+(README and user guides in every language), its texts, translations, interface,
+animations and images are protected by copyright and owned by the author.
+
+1. PERMITTED USE
+   You may, free of charge:
+   - download the software from the official repository
+     (https://github.com/JohnWish01/Optimization_script_W11_64);
+   - run it on your own computers;
+   - read its source code to understand what it does.
+
+2. RESTRICTIONS
+   Without prior written permission from the author, you may NOT:
+   - copy, publish, share or redistribute the software or its documentation,
+     in whole or in part, on any website, forum, repository, store or medium
+     (share a link to the official repository instead);
+   - modify it, translate it, or create and distribute works based on it;
+   - sell it, rent it, include it in a paid product or service,
+     or use it for any other commercial purpose;
+   - remove or change the author's name, this copyright notice or this license;
+   - present the software, or any part of it, as your own work.
+
+   Forking the repository on GitHub is allowed only as far as GitHub's Terms of
+   Service require; it grants no other right listed above.
+
+3. NO WARRANTY
+   The software is provided "as is", without warranty of any kind. The author is
+   not liable for any damage resulting from its use. The software saves the
+   previous settings before changing them; restoring them remains the user's
+   responsibility.
+
+4. PERMISSIONS
+   To request a permission not granted here, contact the author through
+   GitHub: https://github.com/JohnWish01
+
+-------------------------------------------------------------------------------
+
+TRADUCTION FRANÇAISE (pour information ; en cas de doute, la version anglaise
+ci-dessus fait foi)
+
+Copyright (c) 2025-2026 John Wish (github.com/JohnWish01)
+Tous droits réservés.
+
+Ce logiciel (le script JohnWishGamingOptimizer.ps1), sa documentation (README et
+modes d'emploi dans toutes les langues), ses textes, traductions, interface,
+animations et images sont protégés par le droit d'auteur et appartiennent à
+l'auteur.
+
+1. CE QUI EST AUTORISÉ
+   Gratuitement, vous pouvez :
+   - télécharger le logiciel depuis le dépôt officiel
+     (https://github.com/JohnWish01/Optimization_script_W11_64) ;
+   - l'utiliser sur vos propres ordinateurs ;
+   - lire son code pour comprendre ce qu'il fait.
+
+2. CE QUI EST INTERDIT
+   Sans l'autorisation écrite préalable de l'auteur, il est interdit de :
+   - copier, publier, partager ou redistribuer le logiciel ou sa documentation,
+     en tout ou en partie, sur un site, un forum, un dépôt, une boutique ou tout
+     autre support (partagez plutôt un lien vers le dépôt officiel) ;
+   - le modifier, le traduire, ou créer et diffuser des œuvres qui en dérivent ;
+   - le vendre, le louer, l'inclure dans un produit ou service payant,
+     ou l'utiliser à toute autre fin commerciale ;
+   - retirer ou modifier le nom de l'auteur, cette mention de copyright ou
+     cette licence ;
+   - présenter le logiciel, ou une partie, comme votre propre travail.
+
+   Le « fork » du dépôt sur GitHub n'est permis que dans la mesure imposée par
+   les conditions d'utilisation de GitHub ; il ne donne aucun autre droit
+   parmi ceux listés ci-dessus.
+
+3. AUCUNE GARANTIE
+   Le logiciel est fourni « tel quel », sans garantie d'aucune sorte. L'auteur
+   n'est pas responsable des dommages liés à son utilisation. Le logiciel
+   enregistre les anciens réglages avant de les modifier ; les restaurer reste
+   de la responsabilité de l'utilisateur.
+
+4. AUTORISATIONS
+   Pour demander une autorisation qui n'est pas prévue ici, contactez l'auteur
+   via GitHub : https://github.com/JohnWish01
